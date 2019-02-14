@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "543688679437",
+    "firebase_url": "https://bipeems.firebaseio.com",
+    "project_id": "bipeems",
+    "storage_bucket": "bipeems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543688679437:android:ddc97b9275266ea8",
+        "android_client_info": {
+          "package_name": "com.mohit.voodoo.bipe_ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543688679437-q9buf7fpspad8vsmjglinpss9kcd1r9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohit.voodoo.bipe_ems",
+            "certificate_hash": "366f602f246e6ca9bb32cfbaa1fc7ac653a2f59d"
+          }
+        },
+        {
+          "client_id": "543688679437-35eihjslt336lirauoabc8dio3154i4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WYXa5VOwSvWcP9D2WaCqhJdhK10YGiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543688679437-35eihjslt336lirauoabc8dio3154i4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

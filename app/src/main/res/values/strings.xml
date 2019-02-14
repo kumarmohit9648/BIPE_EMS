@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">BIPE EMS</string>
+    <string name="title_activity_login_">Sign in</string>
+
+    <string name="blue_name">Transaction</string>
+    <string name="vms">EVENT MANAGEMENT SYSTEM</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="change_language">Change Language</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_tab_dashboard">TabDashboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CreateVisit">Create Visit</string>
+
+
+    <string name="create_visit">Create Visit</string>
+    <string name="pending_visit">Pending Visit</string>
+    <string name="allocated_visit">Allocated Visit</string>
+    <string name="serviced_visit">Serviced Visit</string>
+    <string name="completed_visit">Completed Visit</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_alternative_mobile_optional">Enter Alternative Mobile (optional)</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="refer_by">Refer By (optional)</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_district_name">Enter District Name</string>
+    <string name="select_purpose">Select Purpose</string>
+    <string name="purpose_of_visit">Purpose of visit</string>
+    <string name="select_concern_person_type">Select Concern Person Type</string>
+    <string name="select_branch">Select Branch</string>
+    <string name="select_semester">Select Semester</string>
+    <string name="enter_concern_person_name">Enter Concern Person Name</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="send">SEND</string>
+    <string name="connect_device">Connect device</string>
+    <string name="print_slip">Print Slip</string>
+    <string name="step1">Contact</string>
+    <string name="step2">Address</string>
+    <string name="step3">Purpose</string>
+    <string name="step4">Photo</string>
+    <string name="step5">Print</string>
+
+    <string name="scan_QR">SCAN QR</string>
+    <string name="events">EVENTS</string>
+    <string name="invitees">RECEIVED INVITATION</string>
+    <string name="logout">LOGOUT</string>
+    <string name="dashboard">Dashboard</string>
+
+</resources>

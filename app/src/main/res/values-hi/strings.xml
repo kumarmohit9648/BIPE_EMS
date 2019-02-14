@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">बीआईपीई ईएमएस</string>
+    <string name="title_activity_login_">साइन इन करें</string>
+
+    <string name="change_language">भाषा बदलो</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="vms">घटना प्रबंधन प्रणाली</string>
+    <string name="blue_name">लेन-देन</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">यह फ़ील्ड आवश्यक है</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    
+    <string name="title_activity_tab_dashboard">TabDashboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CreateVisit">आगंतुक</string>
+
+
+    <string name="create_visit">आगंतुक</string>
+    <string name="pending_visit">लंबित यात्रा</string>
+    <string name="allocated_visit">आवंटित यात्रा</string>
+    <string name="serviced_visit">सेवा पूर्ण यात्रा</string>
+    <string name="completed_visit">पूर्ण यात्रा</string>
+    <string name="enter_mobile_number">मोबाइल नंबर दर्ज करें</string>
+    <string name="enter_alternative_mobile_optional">वैकल्पिक मोबाइल दर्ज करें (वैकल्पिक)</string>
+    <string name="enter_name">नाम दर्ज</string>
+    <string name="refer_by">द्वारा संदर्भित (वैकल्पिक)</string>
+    <string name="enter_address">पता लिखिए</string>
+    <string name="enter_district_name">जिला नाम दर्ज करें</string>
+    <string name="select_purpose">उद्देश्य का चयन करें</string>
+    <string name="purpose_of_visit">आने का उद्देश्य</string>
+    <string name="select_concern_person_type">संबंधित व्यक्ति प्रकार का चयन करें</string>
+    <string name="select_branch">ब्रांच का चयन करें</string>
+    <string name="select_semester">सेमेस्टर का चयन करें</string>
+    <string name="enter_concern_person_name">संबंधित व्यक्ति का नाम दर्ज करें</string>
+    <string name="capture_image">फ़ोटो</string>
+    <string name="send">जमा करें</string>
+    <string name="connect_device">डिवाइस से कनेक्ट करें</string>
+    <string name="print_slip">प्रिंट पर्ची</string>
+    <string name="step1">संपर्क</string>
+    <string name="step2">पता</string>
+    <string name="step3">उद्देश्य</string>
+    <string name="step4">फ़ोटो</string>
+    <string name="step5">प्रिंट</string>
+
+    <string name="scan_QR">स्कैन QR</string>
+    <string name="events">आयोजन</string>
+    <string name="invitees">प्राप्त आमंत्रण</string>
+    <string name="logout">लोग आउट</string>
+    <string name="dashboard">डैशबोर्ड</string>
+</resources>

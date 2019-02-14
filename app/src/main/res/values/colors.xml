@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#254a79</color>
+    <color name="colorPrimaryDark">#d06363</color>
+    <color name="toolbarColor">#d06363</color>
+    <color name="colorAccent">#818181</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="lightGrey">#f2f2f2</color>
+    <color name="grey">#939393</color>
+    <color name="textcolor">#ff6f00</color>
+    <color name="textcolorLight">#ffae51</color>
+    <color name="progressBar">#44ae53</color>
+    <color name="transparentGrey">#11000000</color>
+    <color name="transparent">#00a49d9d</color>
+    <color name="themeyellow">#FF8F00</color>
+    <color name="themeRed">#d06363</color>
+    <color name="red">#dc0000</color>
+    <color name="dark_grey">#414141</color>
+</resources>
